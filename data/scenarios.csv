@@ -1,0 +1,11 @@
+period,status,observed,low,median,high
+T1 2025,observed,7.5,,,
+T2 2025,observed,7.6,,,
+T3 2025,observed,7.8,,,
+T4 2025,observed,8.0,,,
+T1 2026,observed,8.1,,,
+T2 2026,observed,8.3,8.3,8.3,8.3
+T3 2026,forecast,,8.3,8.4,8.5
+T4 2026,forecast,,8.3,8.5,8.7
+T1 2027,forecast,,8.2,8.5,8.9
+T2 2027,forecast,,8.2,8.5,9.0

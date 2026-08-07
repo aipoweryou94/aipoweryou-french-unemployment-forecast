@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+data/transformer_raw_forecast.csv
+data/model_features.csv
+data/model_features.metadata.json
+data/raw/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+.venv-broken/
+*.egg-info/
+build/
+dist/
